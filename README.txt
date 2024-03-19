@@ -1,4 +1,4 @@
-This a project that demonstrates interactions between a PosgreSQL database and Python application using the pycopg2 library
+This a project that demonstrates interactions between a PosgreSQL database and Python application using the psycopg2 library
 
 To install the dependency:
 pip install psycopg2
